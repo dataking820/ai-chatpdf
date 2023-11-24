@@ -4,3 +4,4 @@ pypdf
 chromadb
 tiktoken
 pysqlite-binary
+streamlit-extras
